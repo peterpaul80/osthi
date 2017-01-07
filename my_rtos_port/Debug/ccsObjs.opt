@@ -1,0 +1,1 @@
+"./FreeRTOS/Source/timers.obj" "./FreeRTOS/Source/tasks.obj" "./FreeRTOS/Source/queue.obj" "./FreeRTOS/Source/portext.obj" "./FreeRTOS/Source/port.obj" "./FreeRTOS/Source/list.obj" "./FreeRTOS/Source/heap_2.obj" "./FreeRTOS/Source/event_groups.obj" "./FreeRTOS/Source/croutine.obj" "./Sources/main.obj" -l"libc.a" "../lnk_msp430f5418a.cmd" 
